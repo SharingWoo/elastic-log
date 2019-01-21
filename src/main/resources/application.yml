@@ -1,0 +1,6 @@
+server:
+  port: 8801
+kafka:
+  address: localhost:9092
+  log:
+    topicName: log1
